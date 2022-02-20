@@ -1,0 +1,15 @@
+.port-cont{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.h2port{
+    width: fit-content;
+    margin-bottom: 4rem;
+}
+.row.cards-cont{
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 80%;
+}

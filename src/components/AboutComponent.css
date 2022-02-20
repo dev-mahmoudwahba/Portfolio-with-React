@@ -1,0 +1,18 @@
+.about{
+    margin-top: 4rem ;
+    margin-bottom: 4rem ;
+    text-align: center;
+}
+
+.about-p{
+    margin-bottom: 2rem;
+    max-width: 36rem;
+
+}
+.h2about{
+    text-shadow: 1;
+}
+.btn-about{
+    width: fit-content;
+
+}

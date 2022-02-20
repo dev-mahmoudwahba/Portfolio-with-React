@@ -1,0 +1,15 @@
+.cont-fl {
+background-image: url("../assets/img/pexels-mesut-çiçen-10909255.jpg");
+background-size: cover;
+height: 90vh;
+background-position: center;
+color: white;
+}
+.colm5{
+    height: 11rem;
+    margin-top: 5rem;
+}
+.headp{
+    font-size: 1.8rem;
+    margin-top: 2rem;
+}
